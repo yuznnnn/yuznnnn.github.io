@@ -26,7 +26,7 @@
       max-width: 320px;
       margin: 1em auto;
       padding: 1em 2em;
-      background-color: #e63946;
+      background-color: #c63f0d;
       color: white;
       border: none;
       border-radius: 12px;
@@ -41,7 +41,7 @@
   </style>
 </head>
 <body>
-  <h1>《大盜推夫》故事體驗入口</h1>
+  <h1>《大盜提夫》故事體驗入口</h1>
   <p>創作者：謝予甄</p>
   <a class="btn" href="https://online.fliphtml5.com/oxhby/gyef/" target="_blank"> 📕 繪本閱讀</a>
   <a class="btn" href="https://view.genially.com/673e9da308e059e15f58fd35" target="_blank">🎮 Genially</a>
